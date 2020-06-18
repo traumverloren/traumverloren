@@ -1,3 +1,3 @@
 ✨ oh hai! ✨
 
-![](traumverloren/dogs-running.gif)
+![](./dogs-running.gif)
