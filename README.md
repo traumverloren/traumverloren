@@ -1,1 +1,3 @@
-:sparkles: oh hai! :sparkles:
+✨ oh hai! ✨
+
+![](dogs-running.gif)
